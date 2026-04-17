@@ -1,6 +1,5 @@
 # Mongodb
 A MongoDB NoSQL assignment covering CRUD operations, aggregation, joins, array queries, and nested document analysis
-Project Overview
 The main goal of this assignment is to practice how MongoDB handles data in a flexible document-oriented format. Instead of using tables and rows like a relational database, this project uses collections of documents that store information about students, faculty members, courses, enrollments, and student activities. The assignment demonstrates how MongoDB can be used to manage both simple and complex data operations efficiently.
 
 The project begins with the creation of a database in MongoDB Compass and the insertion of sample JSON documents. After setting up the database, several queries are written to solve different analytical and operational problems. These queries cover filtering, projection, aggregation, joins, updates, deletions, array operations, nested document conditions, and advanced grouping logic.
