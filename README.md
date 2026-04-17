@@ -80,4 +80,5 @@ Working with arrays, subdocuments, and nested conditions.
 Building advanced aggregation pipelines for analytical queries.
 
 Conclusion
+
 This MongoDB assignment provides a complete hands-on introduction to NoSQL database operations. It combines basic setup tasks with advanced querying techniques, making it useful for learning both the structure and the power of MongoDB. The project also demonstrates how to work with multiple related collections and apply aggregation pipelines to solve real data analysis problems in an educational environment.
